@@ -280,7 +280,7 @@ function App() {
   
     
     return (<div style={{zIndex: "2",position: "absolute" }}>
-          <p className='iso'>Iso value: </p>
+          <p className='iso'>Iso Value: </p>
           <input
           className='isoValue'
           type="range"
